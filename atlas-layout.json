@@ -1,0 +1,65 @@
+{
+  "spriteVersionNumber": 2,
+  "sheetSize": [
+    1536,
+    2288
+  ],
+  "columns": 8,
+  "rows": 11,
+  "cellSize": [
+    192,
+    208
+  ],
+  "transparent": true,
+  "rowIndexOrigin": 0,
+  "actions": {
+    "idle": [
+      0,
+      6
+    ],
+    "moveRight": [
+      1,
+      8
+    ],
+    "moveLeft": [
+      2,
+      8
+    ],
+    "wave": [
+      3,
+      4
+    ],
+    "jump": [
+      4,
+      5
+    ],
+    "failed": [
+      5,
+      8
+    ],
+    "waiting": [
+      6,
+      6
+    ],
+    "working": [
+      7,
+      6
+    ],
+    "review": [
+      8,
+      6
+    ],
+    "lookDirections": {
+      "rows": [
+        9,
+        10
+      ],
+      "framesEach": 8
+    }
+  },
+  "smilingFrame": {
+    "row": 0,
+    "column": 4
+  },
+  "spritesheetSha256": "d058d9c535121541fafbfd8a4a8fa8d11af40938d8c02018368b887214470bad"
+}
